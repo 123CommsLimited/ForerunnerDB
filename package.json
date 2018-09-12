@@ -41,7 +41,7 @@
     "express": "^4.14.0",
     "localforage": "^1.4.3",
     "pako": "^1.0.3",
-    "pem": "^1.8.3",
+    "pem": "1.12.5",
     "rest": "^2.0.0"
   },
   "devDependencies": {
